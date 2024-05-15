@@ -61,6 +61,7 @@ export default function WeatherApp() {
           <a
             href="https://www.github.com/loycekalen/react-weather"
             target="_blank"
+            rel="noreferrer"
           >
             {" "}
             open-sourced
