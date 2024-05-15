@@ -58,7 +58,13 @@ export default function WeatherApp() {
         </div>
         <footer>
           Coded by Kalen and is
-          <a href="https://www.github.com"> open-sourced</a>
+          <a
+            href="https://www.github.com/loycekalen/react-weather"
+            target="_blank"
+          >
+            {" "}
+            open-sourced
+          </a>
         </footer>
       </div>
     </div>
